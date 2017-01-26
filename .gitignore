@@ -1,0 +1,10 @@
+## Gradle
+.gradle
+gradle-app.setting
+build/
+
+## IDEA
+.idea
+
+## OS Specific
+.DS_Store
