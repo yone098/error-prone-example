@@ -4,7 +4,9 @@ Usage
 
 ```
 $ git clone https://github.com/yone098/error-prone-example.git
+
 $ cd error-prone-example/
+
 $ gradle clean run
 :clean
 :compileJava
