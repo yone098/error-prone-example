@@ -15,10 +15,6 @@ public class Main {
 
         String[] nameArray = new String[]{"yone098", "mopemope"};
         System.out.println(nameArray);
-        /*
-        for (final String name : nameArray) {
-            System.out.println(name);
-        }
-        */
+        //System.out.println(Arrays.toString(nameArray));
     }
 }
